@@ -1,0 +1,10 @@
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\bin\Debug\Restourant APP.exe.config
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\bin\Debug\Restourant APP.exe
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\bin\Debug\Restourant APP.pdb
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\bin\Debug\DAL.dll
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\bin\Debug\DAL.pdb
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\obj\Debug\Restourant APP.csprojAssemblyReference.cache
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\obj\Debug\Restourant APP.csproj.CoreCompileInputs.cache
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\obj\Debug\Restourant APP.csproj.CopyComplete
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\obj\Debug\Restourant APP.exe
+C:\Users\damian\source\repos\Restourant APP\Restourant APP\obj\Debug\Restourant APP.pdb
