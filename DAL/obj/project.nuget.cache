@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSZnrrLowmO1cBH2me0hAUqlMdbQeKMX/OlLxbVcWi8nVcV9bFhK2CDl37fsfpz/ewqBscW8Eik+8mogDzD/UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damian\\source\\repos\\Restourant APP\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\damian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
